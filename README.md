@@ -23,8 +23,25 @@ This analysis uses a comprehensive dataset of 700 mobile users, categorized into
 
 ## **How to Replicate the Analysis**
 
-### **1. Clone the Repository**
-Run the following command in your terminal:
-```bash
-git clone https://github.com/kkerychka/Project-B10-KAGGLE---Mobile-Device-Usage-and-User-Behavior-Dataset
-cd Project-B10-KAGGLE---Mobile-Device-Usage-and-User-Behavior-Dataset
+# **How to Replicate the Analysis**
+
+1. **Clone the Repository**  
+   Clone the project repository and navigate to the folder:
+   ```bash
+   git clone https://github.com/kkerychka/Project-B10-KAGGLE---Mobile-Device-Usage-and-User-Behavior-Dataset
+   cd Project-B10-KAGGLE---Mobile-Device-Usage-and-User-Behavior-Dataset
+2. **Set Up the Environment**
+    Install the required Python libraries by running:
+    ```bash
+    pip install -r requirements.txt
+3. **Run the Notebooks**
+    Open the Jupyter notebooks in the notebooks/ folder to view or rerun the analysis. For example:
+   ```bash
+    jupyter notebook notebooks/analysis.ipynb
+4. **Access Results**
+   Check the results/ folder for:
+   ```bash
+   Performance reports
+   Confusion matrices
+   Model evaluations
+
