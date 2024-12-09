@@ -23,7 +23,7 @@ This analysis uses a comprehensive dataset of 700 mobile users, categorized into
 
 ## **How to Replicate the Analysis**
 
-# **How to Replicate the Analysis**
+
 
 1. **Clone the Repository**  
    Clone the project repository and navigate to the folder:
