@@ -11,6 +11,15 @@ Understanding mobile usage behavior is crucial for:
 
 This analysis uses a comprehensive dataset of 700 mobile users, categorized into behavioral classes, to uncover key patterns and develop predictive models.
 
+## **Project Goals**
+- Analyze User Behavior Patterns: Investigate trends in app usage, screen time, and data consumption.
+- Build a Predictive Model: Classify user behavior into predefined classes with at least 85% accuracy.
+- Identify Key Factors: Highlight metrics that influence high mobile usage.
+## **Technologies Used**
+- Programming Language: Python
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Tools: Jupyter Notebooks, GitHub
+
 ---
 
 ## **Repository Contents**
