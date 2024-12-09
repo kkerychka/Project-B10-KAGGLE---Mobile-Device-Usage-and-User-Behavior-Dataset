@@ -1,4 +1,5 @@
-# Project-B10-KAGGLE---Mobile-Device-Usage-and-User-Behavior-Dataset
+# **Project-B10-KAGGLE---Mobile-Device-Usage-and-User-Behavior-Dataset**
+## Author: Karina Pinajeva
 
 ## **Project Overview**
 This project analyzes mobile device usage patterns and classifies user behavior using machine learning techniques. By leveraging key metrics like app usage time, screen-on time, battery consumption, and data usage, the project provides actionable insights for app optimization, user engagement strategies, and targeted marketing.
