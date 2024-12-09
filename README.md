@@ -16,7 +16,6 @@ This analysis uses a comprehensive dataset of 700 mobile users, categorized into
 ## **Repository Contents**
 - **`data/`**: Contains the dataset used for analysis.
 - **`notebooks/`**: Jupyter notebooks for data cleaning, exploratory data analysis (EDA), and model building.
-- **`models/`**: Trained models saved for reproducibility.
 - **`results/`**: Performance metrics, confusion matrices, and visualizations.
 - **`README.md`**: This guide to setting up the environment and replicating the analysis.
 
